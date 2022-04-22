@@ -1,0 +1,15 @@
+DIO
+
+Site: https://www.dio.me/
+
+Curso: Philips Fullstack Developer
+Total de treinamentos: 55
+
+Treinamentos terminados: 
+
+* Lógica de Programação
+* Pensamento Computacional
+* Introdução ao Git e GitHub
+* Desafio do Projeto - Em anadamento
+
+
